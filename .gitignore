@@ -1,0 +1,8 @@
+*.exp
+*.dwp
+*.eww
+*.dep
+*.ewd
+*.ewp
+Debug/*
+settings/*
